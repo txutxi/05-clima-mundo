@@ -1,4 +1,4 @@
-## Aplicacion: Temeratura en el mundo
+## Aplicacion: Temperatura en el mundo
 
 Recuerden ejecutar: ```npm install``` para las librerias.
 
